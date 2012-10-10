@@ -1,0 +1,5 @@
+# Compiled Outputs #
+###################
+*.log
+*.pdf
+*.cls
